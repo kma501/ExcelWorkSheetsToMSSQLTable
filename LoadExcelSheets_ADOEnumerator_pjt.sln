@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "LoadExcelSheets_ADOEnumerator_pjt", "LoadExcelSheets_ADOEnumerator_pjt.dtproj", "{57ED9B50-999B-4990-8426-B41A7A96065C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57ED9B50-999B-4990-8426-B41A7A96065C}.Development|Default.ActiveCfg = Development
+		{57ED9B50-999B-4990-8426-B41A7A96065C}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FA00C4E-C376-475C-ABC9-60A2DD65A243}
+	EndGlobalSection
+EndGlobal

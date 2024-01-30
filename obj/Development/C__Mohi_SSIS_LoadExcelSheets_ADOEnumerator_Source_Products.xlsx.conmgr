@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="C__Mohi_SSIS_LoadExcelSheets_ADOEnumerator_Source_Products.xlsx"
+  DTS:DTSID="{E7E7A701-F90D-4984-88E5-D2365DFF6537}"
+  DTS:CreationName="ADO.NET:System.Data.OleDb.OleDbConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=C:\Mohi\SSIS\LoadExcelSheets_ADOEnumerator\Source\Products.xlsx;Provider=Microsoft.ACE.OLEDB.12.0;Extended Properties=Excel 8.0;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
